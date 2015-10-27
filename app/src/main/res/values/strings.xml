@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">來拼一把</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_single_category">SingleCategoryActivity</string>
+</resources>
